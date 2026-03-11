@@ -120,3 +120,8 @@ body{
     height: 400px;
     width: 80vh;
 }
+
+#filters a {
+    text-decoration: none;
+    color: inherit;
+}
